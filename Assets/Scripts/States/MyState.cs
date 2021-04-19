@@ -1,6 +1,4 @@
-﻿using Strategy;
-
-namespace DefaultNamespace
+﻿namespace States
 {
     public abstract class MyState
     {

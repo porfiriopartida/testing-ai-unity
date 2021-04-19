@@ -1,4 +1,4 @@
-﻿namespace DefaultNamespace
+﻿namespace States
 {
     public class AttackState : MyState
     {

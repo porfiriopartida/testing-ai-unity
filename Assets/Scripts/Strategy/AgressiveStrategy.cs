@@ -1,6 +1,4 @@
-﻿using Strategy;
-
-namespace DefaultNamespace
+﻿namespace Strategy
 {
     public class AgressiveStrategy : EnemyStrategy
     {
